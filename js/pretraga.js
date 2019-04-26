@@ -180,10 +180,10 @@ strDoleNaz.addEventListener('click', function (e) {
 
 
 // MODAL
-$(document).on("click", ".movie", function (){
-  $("#myModal").modal("show");
+$(document).on('click', ".movie", function (){
+  $("#myModal").modal('show');
   let ime = $(this).find("h3").html()
-  fetch(`https://www.omdbapi.com/?t=${ime}&plot=full&apikey=c3d2adef`)
+  fetch(`http://www.omdbapi.com/?t=${ime}&plot=full&apikey=c3d2adef`)
   .then(res => res.json())
   .then(data => {
     document.querySelector(".naziv").innerHTML = data.Title;
