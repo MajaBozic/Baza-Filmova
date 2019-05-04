@@ -175,8 +175,10 @@ input {
   border:1px solid rgb(30, 12, 45);
   width: 300px;
 }
-
-
+#dodajDugme {
+   width: 100px;
+   margin-left: 200px;
+}
 form input{
  margin: 0;
 }
@@ -189,12 +191,12 @@ form input{
 }
 
 .unos {
-  margin-left:39px;
   margin-top:57px;
 }
 
 .slika{
-  margin-left: 3vw;
+  margin-left: 8vw;
+  margin-top: 205px;
 }
 
 .slika img {
