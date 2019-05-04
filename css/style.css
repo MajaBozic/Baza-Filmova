@@ -64,6 +64,7 @@ header img {
 
 input {
  background-color:rgb(244, 241, 150);
+ border-radius: 6px;	
 }
 
 main {
