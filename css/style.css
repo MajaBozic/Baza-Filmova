@@ -196,7 +196,8 @@ form input{
 
 .slika{
   margin-left: 8vw;
-  margin-top: 205px;
+  margin-top: 187px;
+  opacity: 0.7;
 }
 
 .slika img {
