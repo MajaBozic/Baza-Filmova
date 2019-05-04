@@ -79,6 +79,9 @@ h1 {
   color:rgb(245, 211, 144);
   text-align:center;
   padding:12px;
+  font-family: Ariel;
+  font-size: 33px;
+  font-weight: 600;
 }
 
 button {
@@ -102,7 +105,10 @@ button:hover {
 header h2 {
   text-align:center;
   padding:3px;
-  color:rgb(245, 211, 144);;
+  color:rgb(245, 211, 144);
+  font-family: Ariel;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .lista li {
