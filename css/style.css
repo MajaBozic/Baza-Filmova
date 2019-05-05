@@ -149,6 +149,7 @@ form > h3 {
   font-family: Ariel;
   font-size: 20px;
   text-align: center;
+  width:300px;
 }
 p {
   color:rgb(219, 204, 204);
