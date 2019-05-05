@@ -144,7 +144,11 @@ h3 {
   color:rgb(245, 211, 144);
   font-family: Ariel;
 }
-
+form > h3 {
+  color: rgb(244, 241, 150);
+  font-family: Ariel;
+  font-size: 20px;
+}
 p {
   color:rgb(219, 204, 204);
   margin:9px;
@@ -212,7 +216,7 @@ form input{
 
 .slika{
   margin-left: 8vw;
-  margin-top: 124px;
+  margin-top: 100px;
   opacity: 0.7;
 }
 
