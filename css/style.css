@@ -180,6 +180,8 @@ input {
 #dodajDugme {
    width: 100px;
    margin-left: 200px;
+   background-color: rgb(245, 211, 144);
+   color: rgb(30, 12, 45);
 }
 #dodajDugme:hover {
   border-radius:6px;
