@@ -179,6 +179,13 @@ input {
    width: 100px;
    margin-left: 200px;
 }
+#dodajDugme:hover {
+  border-radius:6px;
+  border:solid 1px rgb(30, 12, 45);
+  padding:9px;
+  color:rgb(245, 211, 144) ;
+  background-color:rgb(30, 12, 45);
+}
 form input{
  margin: 0;
 }
