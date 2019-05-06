@@ -39,6 +39,7 @@ footer {
 header {
   grid-area:h;
 }
+
 .containerM {
   display:grid;
   min-height:100vh;
@@ -110,6 +111,7 @@ header h2 {
 .lista li {
   margin: 0 auto;
 }
+
 .lista input {
   width: 10vw;
   height: 2.1vh;
@@ -117,9 +119,11 @@ header h2 {
   padding: 0;
   font-size: 10px;
 }
+
 #loginCon {
   display: flex;
 }
+
 #filmovi {
   display:flex;
   justify-content:space-evenly;
@@ -132,6 +136,7 @@ h3 {
   color:rgb(245, 211, 144);
   font-family: Ariel;
 }
+
 form > h3 {
   color: rgb(244, 241, 150);
   font-family: Ariel;
@@ -139,6 +144,7 @@ form > h3 {
   text-align: center;
   width:300px;
 }
+
 p {
   color:rgb(219, 204, 204);
   margin:9px;
@@ -155,12 +161,14 @@ h2 {
   font-family: Ariel;
   font-size:24px;
 }
+
 main > h2 {
   padding:32px;
   color: rgb(244, 241, 150);
   font-family: Ariel;
   font-size:24px;
-} 
+}
+
 label, input {
   display:block;
   text-align:center;
@@ -173,12 +181,14 @@ input {
   border:1px solid rgb(30, 12, 45);
   width: 300px;
 }
+
 #dodajDugme {
    width: 100px;
    margin-left: 200px;
    background-color: rgb(245, 211, 144);
    color: rgb(30, 12, 45);
 }
+
 #dodajDugme:hover {
   border-radius:6px;
   border:solid 1px rgb(30, 12, 45);
@@ -186,10 +196,10 @@ input {
   color:rgb(245, 211, 144) ;
   background-color:rgb(30, 12, 45);
 }
+
 form input{
  margin: 0;
 }
-
 
 .unesi_film {
   display:flex;
@@ -221,6 +231,7 @@ form input{
   margin-bottom:69px;
 
 }
+
 .movie img {
   width: 200px;
   height: 300px;
@@ -259,12 +270,13 @@ form input{
   font-style: italic;
   font-weight: bold;
 }
+
 .movie, .filmski-div-sortirano {
   position: relative;
-
 }
 
 .iks span{
   display: none;
 }
+
 /* IKS DUGME END */
