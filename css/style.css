@@ -84,7 +84,7 @@ h1 {
   font-weight: 600;
 }
 
-button {
+.btn, #login {
   width:99px;
   border-radius:6px;
   border:solid 1px rgb(105, 24, 168);
@@ -94,7 +94,7 @@ button {
   color:rgb(30, 12, 45);
 }
 
-button:hover {
+.btn:hover, #login:hover {
   border-radius:6px;
   border:solid 1px rgb(30, 12, 45);
   padding:6px;
@@ -157,7 +157,7 @@ p {
   font-family: Ariel;
 }
 
-p button {
+p .btn {
   width:30px;
 }
 
