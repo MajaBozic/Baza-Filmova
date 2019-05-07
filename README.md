@@ -7,4 +7,4 @@ Odabrana dela svrstavaju se po nazivu, ili godini izdavanja, kako bi se olakšal
 
 Za izradu  zadatka korišćene su tri glavne tehnologije HTML,CSS i JS, a uz njih upotrebljen je i Bootstrap (navigaciona dugmad). 
 
-Uradjena je potrebna validacija HTMLa i CSSa ovog rada.
+Uradjena je potrebna validacija koda ovog rada.
